@@ -1,4 +1,3 @@
-
 from server.config import app
 from server.models import Workout, Exercise, WorkoutExercise
 
