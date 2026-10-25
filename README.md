@@ -61,7 +61,7 @@ pipenv run flask --app server.app db upgrade
 
 This applies the existing database migrations.
 
-So If incase your database has not been initialized with migrations yet, initialize and create the initial migration before running the upgrade command.
+If your database has not been initialized with migrations yet, initialize and create the initial migration before running the upgrade command.
 
 ### Step 4: Seed the database
 
